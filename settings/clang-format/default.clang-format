@@ -1,0 +1,25 @@
+BasedOnStyle: GNU
+AlignConsecutiveAssignments : true
+AlignConsecutiveMacros : true
+AlignEscapedNewlines : Right
+AlignTrailingComments : true
+AllowShortBlocksOnASingleLine : Empty
+AllowShortCaseLabelsOnASingleLine : false
+AllowShortIfStatementsOnASingleLine : Never
+AllowShortLoopsOnASingleLine : false
+AlwaysBreakAfterReturnType : None
+ColumnLimit : 80
+IndentWidth : 2
+SpaceAfterCStyleCast : false
+SpaceAfterLogicalNot : true
+SpaceBeforeAssignmentOperators : true
+SpaceBeforeParens : ControlStatements
+SpaceBeforeRangeBasedForLoopColon : true
+SpaceBeforeSquareBrackets : false
+SpaceInEmptyBlock : true
+SpaceInEmptyParentheses : true
+SpacesInCStyleCastParentheses : false
+SpacesInConditionalStatement : false
+SpacesInParentheses : false
+SpacesInSquareBrackets : false
+UseTab : Never

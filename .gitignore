@@ -1,0 +1,4 @@
+settings/vimrc/codingrules.vimrc
+settings/clang-format/*
+!settings/clang-format/default.clang-format
+
